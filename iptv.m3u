@@ -1,12 +1,9 @@
 #EXTM3U
 #EXTINF:-1,ANTIESTRES
 http://byecableiptv.ddns.net:1935/antiestres/smil:antiestres.smil/playlist.m3u8
-
 #EXTINF:-1,CANTINAZO
 http://byecableiptv1.ddns.net:1935/cantinazo/smil:cantinazo.smil/playlist.m3u8
-
 #EXTINF:-1,SUPERMUSICA
 http://byecableiptv2.ddns.net:1935/supermusica/smil:supermusica.smil/playlist.m3u8
-
 #EXTINF:-1,MOMENTO24
 http://190.27.246.100/hls/momento24.m3u8
